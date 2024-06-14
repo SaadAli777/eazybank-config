@@ -4,7 +4,7 @@ build:
 accounts:
   message: "welcome to eazybank Accounts related Production APIs"
   contactDetails:
-    name: "John Doe Prod-Lead"
+    name: "Mark Alex Prod-Lead"
     email: "{cipher}7989562e9182012f0f0f8eda73069b53364e7a40629574c317ae83bf8b54409cc51fa4f3d009d776284732b6ff3c126d"
     onCallSupport:
       - (555) 555 1234
