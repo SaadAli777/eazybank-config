@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 cards:
-  message: "welcome to eazybank Cards related QA APIs (TO-Let)"
+  message: "welcome to eazybank Cards related QA APIs (Buss Referesh)"
   contactDetails:
     name: "Smith Ray - QA-Lead"
     email: "Smith@gmail.com"
