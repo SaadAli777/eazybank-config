@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 cards:
-  message: "welcome to eazybank Cards related Production APIs"
+  message: "welcome to eazybank Cards related Production APIs (From Webhook & Docker)"
   contactDetails:
     name: "John Doe Prod-Lead"
     email: "Smith@gmail.com"
